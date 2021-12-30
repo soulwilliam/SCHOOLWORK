@@ -19,6 +19,6 @@ The AI will ONLY know what move your opponent just made. If my AI moves first, i
 My AI should return a Move object to tell the shell which step you are going to make.
 
 ## My AI Implemetation
-This AI uses min-max to simulate each move with evaluation of the board. 
+This AI uses min-max to simulate each move with evaluation of the board. <br/>
 This AI uses Monte Carlo tree search (MCTS) to expand the tree and make the choice.
 
